@@ -27,7 +27,7 @@ AI Engineer | Building LLM Agents & RAG Systems | Passionate Educator
 
 ## 📈 Contributions
 
-[![ojeeeeedev's GitHub contribution chart](https://ghchart.rshah.org/ojeeeeedev)](https://github.com/ojeeeeedev)
+![Contributions in the last 3 months](assets/contributions.svg)
 
 ## 🤖 Built with
 
