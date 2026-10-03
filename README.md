@@ -4,7 +4,7 @@ I build small, practical web apps and AI tools, mostly in wine retail tech at Wi
 
 ## 🔨 Currently building
 
-**🍷 WineAssist** is an AI wine recommendation console for Wine Adore. Staff type a customer request, and a chain of agent stages parses it, searches the 213-bottle catalog, and writes the answer. Search blends preference fit with pgvector embedding similarity, and a request log tracks the token cost of every query.
+**🍷 WineAssist** is an AI wine recommendation console for Wine Adore. Staff type a customer request, and a chain of agent stages parses it, searches the catalog, and writes the answer. Search blends preference fit with pgvector embedding similarity, and a request log tracks the token cost of every query.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
