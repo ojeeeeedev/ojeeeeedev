@@ -15,6 +15,7 @@ AI Engineer | Building LLM Agents & RAG Systems | Passionate Educator
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?logo=googleappsscript&logoColor=white)
 
 **AI**
 
@@ -30,6 +31,7 @@ AI Engineer | Building LLM Agents & RAG Systems | Passionate Educator
 **Deploy**
 
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 
 ## 🔨 Currently building
 
