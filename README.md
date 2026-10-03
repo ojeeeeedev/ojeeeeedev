@@ -25,6 +25,10 @@ AI Engineer | Building LLM Agents & RAG Systems | Passionate Educator
 - ⛪ **[Presensi Katekumen Digital](https://github.com/ojeeeeedev/absensikatekumen)**: QR attendance for the Catechumenate program at St. Peter's Cathedral, Bandung. Scans go straight to Google Sheets.
 - ⚖️ **Weight Journal**: an installable web app to log weight, see the trend, and track a goal, with offline support and CSV export.
 
+## 📈 Contributions
+
+[![ojeeeeedev's GitHub contribution chart](https://ghchart.rshah.org/ojeeeeedev)](https://github.com/ojeeeeedev)
+
 ## 🤖 Built with
 
 **Dev environment**
