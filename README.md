@@ -1,6 +1,5 @@
 # Hi, I am Antonius Andar P. 👋
-AI Engineer | Building LLM Agents & AI Recommendation Systems | Passionate Educator
-
+AI Engineer | Building LLM Agents & RAG Systems | Passionate Educator
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?logo=openai&logoColor=white)
