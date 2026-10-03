@@ -1,10 +1,5 @@
-# Hi, I am Andar 👋
-
-I build small, practical web apps and AI tools, mostly in wine retail tech at Wine Adore and for my parish community in Bandung.
-
-## 🔨 Currently building
-
-**🍷 WineAssist** is an AI wine recommendation console for Wine Adore. Staff type a customer request, and a chain of agent stages parses it, searches the catalog, and writes the answer. Search blends preference fit with pgvector embedding similarity, and a request log tracks the token cost of every query.
+# Hi, I am Antonius Andar P. 👋
+AI Engineer | Building LLM Agents & AI Recommendation Systems | Passionate Educator
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
@@ -12,6 +7,10 @@ I build small, practical web apps and AI tools, mostly in wine retail tech at Wi
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+
+## 🔨 Currently building
+
+**🍷 WineAssist** is an AI wine recommendation console for Wine Adore. Staff type a customer request, and a chain of agent stages parses it, searches the catalog, and writes the answer. Search blends preference fit with pgvector embedding similarity, and a request log tracks the token cost of every query.
 
 ## 📦 Selected projects
 
