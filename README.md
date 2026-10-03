@@ -1,64 +1,35 @@
 # Hi, I am Andar 👋
 
-I build small, practical web apps and AI tools. Most of my work is in wine retail tech at Wine Adore and in tools for my parish community in Bandung.
+I build small, practical web apps and AI tools, mostly in wine retail tech at Wine Adore and for my parish community in Bandung.
 
-## What I worked on this month (September 2026)
+## 🔨 Currently building
 
-### 🍷 WineAssist — AI wine recommendation console
+**🍷 WineAssist** is an AI wine recommendation console for Wine Adore. Staff type a customer request, and a chain of agent stages parses it, searches the 213-bottle catalog, and writes the answer. Search blends preference fit with pgvector embedding similarity, and a request log tracks the token cost of every query.
 
-A staff console for Wine Adore. Staff type a customer request, and WineAssist recommends wines from the 213-bottle store catalog.
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?logo=openai&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 
-- I started the project on 15 September and shipped version `0.4.5` in 10 days: 150+ commits and 40 pull requests.
-- A chain of OpenAI Agents SDK stages parses the request, searches the catalog, and writes the answer.
-- Catalog search scores each wine as 70% preference fit plus 30% embedding similarity. PostgreSQL with pgvector holds the embeddings.
-- Staff can generate a sales pitch for a wine or search the web for similar wines outside the catalog.
-- A request log records the tokens and cost of each query, so I can test the cost of the pipeline.
-- This month I also added CI hardening, grouped Dependabot updates, a backend sync job, and a phone layout pass.
+## 📦 Selected projects
 
-`Python` `FastAPI` `OpenAI Agents SDK` `PostgreSQL` `pgvector` `React` `TypeScript` `Vite`
+- ⛪ **[Presensi Katekumen Digital](https://github.com/ojeeeeedev/absensikatekumen)**: QR attendance for the Catechumenate program at St. Peter's Cathedral, Bandung. Scans go straight to Google Sheets.
+- ⚖️ **Weight Journal**: an installable web app to log weight, see the trend, and track a goal, with offline support and CSV export.
 
-### ⚖️ Weight Journal — personal weight tracker
+## 🧰 Tech
 
-A small installable web app to log weight, see the trend, and track a goal.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-- Today, history, and settings views with a weight dial and a trend chart.
-- Sign-in with Neon Auth. Drizzle ORM stores the entries in Neon Postgres.
-- CSV export and offline support.
+## 📫 Contact
 
-`Next.js 16` `React 19` `Neon` `Drizzle ORM` `PWA`
-
-## Other projects
-
-### ⛪ [Presensi Katekumen Digital](https://github.com/ojeeeeedev/absensikatekumen) — QR attendance for a catechumen program
-
-An attendance system for the Catechumenate program at St. Peter's Cathedral, Bandung. Facilitators scan a QR code on a phone, and the attendance goes directly to Google Sheets.
-
-- Version `2.9.2`, with 600+ commits since November 2025.
-- Vercel serverless functions verify the JWT session and send each scan to Google Apps Script.
-- Student photos stay in private Supabase Storage. An authenticated proxy serves them.
-- A mobile-first interface with a "liquid glass" style, haptic feedback, and profile search.
-
-`JavaScript` `Vercel Functions` `Google Apps Script` `Google Sheets` `Supabase`
-
-### 📈 Chart Tanpa Ribet — content system for an Indonesian investing account
-
-A documented weekly workflow for an Instagram account about investing. AI prepares research, chart notes, captions, and performance reviews. A person approves every post before it goes public.
-
-`Content ops` `ChatGPT Projects` `Canva` `Meta Business Suite`
-
-### 🧪 Agents SDK experiments
-
-Small scripts in JavaScript and Python to test agents, tools, and embeddings with the OpenAI Agents SDK.
-
-## Tech I use
-
-**Languages:** TypeScript, JavaScript, Python, SQL<br>
-**Frontend:** React, Next.js, Vite, Tailwind CSS<br>
-**Backend:** FastAPI, Node.js, Vercel Functions, Google Apps Script<br>
-**Data:** PostgreSQL, pgvector, Neon, Supabase, Drizzle ORM, Google Sheets<br>
-**AI:** OpenAI Agents SDK, embeddings, agent pipelines, token and cost tests<br>
-**Tooling:** GitHub Actions, Dependabot, Docker, Claude Code
-
-## Contact
-
-- GitHub: [@ojeeeeedev](https://github.com/ojeeeeedev)
+GitHub: [@ojeeeeedev](https://github.com/ojeeeeedev)
