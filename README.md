@@ -1,17 +1,6 @@
 # Hi, I am Antonius Andar P. 👋
 AI Engineer | Building LLM Agents & RAG Systems | Passionate Educator
 
-## 🔨 Currently building
-
-**🍷 WineAssist** is an AI wine recommendation console for Wine Adore. Staff type a customer request, and a chain of agent stages parses it, searches the catalog, and writes the answer. Search blends preference fit with pgvector embedding similarity, and a request log tracks the token cost of every query.
-
-## 📦 Selected projects
-
-- ⛪ **[Presensi Katekumen Digital](https://github.com/ojeeeeedev/absensikatekumen)**: QR attendance for the Catechumenate program at St. Peter's Cathedral, Bandung. Scans go straight to Google Sheets.
-- ⚖️ **Weight Journal**: an installable web app to log weight, see the trend, and track a goal, with offline support and CSV export.
-
-## 🧰 Tech
-
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
@@ -22,6 +11,15 @@ AI Engineer | Building LLM Agents & RAG Systems | Passionate Educator
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
+## 🔨 Currently building
+
+**🍷 WineAssist** is an AI wine recommendation console for Wine Adore. Staff type a customer request, and a chain of agent stages parses it, searches the catalog, and writes the answer. Search blends preference fit with pgvector embedding similarity, and a request log tracks the token cost of every query.
+
+## 📦 Selected projects
+
+- ⛪ **[Presensi Katekumen Digital](https://github.com/ojeeeeedev/absensikatekumen)**: QR attendance for the Catechumenate program at St. Peter's Cathedral, Bandung. Scans go straight to Google Sheets.
+- ⚖️ **Weight Journal**: an installable web app to log weight, see the trend, and track a goal, with offline support and CSV export.
 
 ## 🤖 Built with
 
