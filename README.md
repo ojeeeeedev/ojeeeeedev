@@ -18,7 +18,9 @@ AI Engineer | Building LLM Agents & RAG Systems | Passionate Educator
 
 ## 🔨 Currently building
 
-**🍷 WineAssist** is an AI wine recommendation console for Wine Adore. Staff type a customer request, and a chain of agent stages parses it, searches the catalog, and writes the answer. Search blends preference fit with pgvector embedding similarity, and a request log tracks the token cost of every query.
+**🍷🤖 WineAssist**, end-to-end wine recommendation pipeline.
+**🍷💠 WinePulse**, end-to-end sales funnel from lead acquisition to purchase.
+
 
 ## 📦 Selected projects
 
