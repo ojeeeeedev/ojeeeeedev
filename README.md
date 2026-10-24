@@ -18,7 +18,7 @@ AI Engineer | Building LLM Agents & RAG Systems | Passionate Educator
 
 ## 🔨 Currently building
 
-**🍷🤖 WineAssist**, end-to-end wine recommendation pipeline.
+**🍷🤖 WineAssist**, end-to-end wine recommendation pipeline.\
 **🍷💠 WinePulse**, end-to-end sales funnel from lead acquisition to purchase.
 
 
